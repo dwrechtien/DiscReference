@@ -1,0 +1,17 @@
+.pageTitle {
+    color: orangered;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.navbar {
+    background-color: orange;
+    font-size: 19px;
+    text-decoration: white;
+}
+
+a {
+    color: white;
+}
